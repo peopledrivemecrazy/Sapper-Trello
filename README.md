@@ -1,5 +1,8 @@
 # Trello as a blog backend for Sapper JAMstack
 
+[![Trello + Sapper](https://img.youtube.com/vi/oMOtZUsgR5c/hqdefault.jpg)](https://www.youtube.com/watch?v=oMOtZUsgR5c "Trello + Sapper")
+
+
 * Clone repo.
 * `npm i`
 * Change .env-sample to .env with your credentials.
