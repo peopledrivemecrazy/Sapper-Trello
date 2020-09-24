@@ -1,7 +1,10 @@
 # Trello as a blog backend for Sapper JAMstack
 
-[![Trello + Sapper](https://img.youtube.com/vi/oMOtZUsgR5c/hqdefault.jpg)](https://www.youtube.com/watch?v=oMOtZUsgR5c "Trello + Sapper")
+<p align="center">
 
+[![Trello + Sapper](demo-image.png)](https://www.youtube.com/watch?v=oMOtZUsgR5c "Trello + Sapper")
+
+</p>
 
 * Clone repo.
 * `npm i`
